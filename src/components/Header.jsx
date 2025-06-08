@@ -15,10 +15,10 @@ const Header = () => {
                     <Button color="inherit" component={Link} to="/" sx={{fontFamily: 'Montserrat, sans-serif'}}>
                         Home
                     </Button>
-                    <Button color="inherit" component={Link} to="/about" sx={{fontFamily: 'Montserrat, sans-serif'}}>
+                    <Button color="inherit" component={Link} to="/" sx={{fontFamily: 'Montserrat, sans-serif'}}>
                         About
                     </Button>
-                    <Button color="inherit" component={Link} to="/contact" sx={{fontFamily: 'Montserrat, sans-serif'}}>
+                    <Button color="inherit" component={Link} to="/" sx={{fontFamily: 'Montserrat, sans-serif'}}>
                         Contact
                     </Button>
                 </Box>
